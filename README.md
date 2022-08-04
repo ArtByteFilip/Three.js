@@ -1,2 +1,2 @@
 # Three.js 3D game
-V tomto kóde je funkčné pochybovanie objektu pomocou šípok, skákania a pochyb kamery, ktorá je locknutá na objekt.
+In this code, moving an object using arrows, jumping, and doubting a camera that is locked onto the object is functional.
